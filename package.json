@@ -1,0 +1,14 @@
+{
+  "name": "linkedinscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scrapper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
